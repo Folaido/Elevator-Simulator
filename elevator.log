@@ -1,0 +1,12 @@
+Time 0: The elevator picked up 2 passengers at floor 1.
+Time 12: The elevator picked up 2 passengers at floor 3.
+Time 22: The elevator dropped off 2 passengers at floor 5.
+Time 22: The elevator dropped off 2 passengers at floor 5.
+Time 24: The elevator picked up 4 passengers at floor 5.
+Time 34: The elevator picked up 1 passengers at floor 3.
+Time 39: The elevator picked up 3 passengers at floor 2.
+Time 44: The elevator dropped off 1 passengers at floor 1.
+Time 44: The elevator dropped off 3 passengers at floor 1.
+Time 44: The elevator dropped off 4 passengers at floor 1.
+Average wait time = 223/12 = 18.58s.
+Average turnaround time = 392/12 = 32.67s.
