@@ -20,11 +20,11 @@ Every call in the file should format in this schema:\
 
 Each call should be seperated by a line break.\
 Example of an valid input file:\
-`0 2 1 5\
+0 2 1 5\
 2 3 2 1\
 4 2 3 5\
 6 4 5 1\
-10 1 3 1`
+10 1 3 1
 
 Constraints:
 - 1 <= floors <= 5
